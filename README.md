@@ -1,5 +1,7 @@
 # ForoHub API Documentation
 
+![Badge-Spring](https://github.com/user-attachments/assets/3070b9db-6ebf-487c-97f9-031a3458b56a)
+
 ## Getting Started
 
 ### Prerequisites
